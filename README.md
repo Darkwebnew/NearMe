@@ -210,14 +210,10 @@ Execute the programs and publish them.
 ```
 ## OUTPUT
 ![map home](https://github.com/Darkwebnew/NearMe/assets/143114486/b8b7be51-407b-401f-9e10-0703c376d0c6)
-![django](https://github.com/Darkwebnew/NearMe/assets/143114486/bc73d3ac-ffbe-4c45-a26a-3e564c6f2369)
 ![CNR MATRICULATION SCHOOL](https://github.com/Darkwebnew/NearMe/assets/143114486/73e49b11-a38e-475e-8684-2c36dcfd40f2)
 ![RUS PIZZA](https://github.com/Darkwebnew/NearMe/assets/143114486/d62efd20-f511-40d4-baaf-7f43a556a46c)
 ![Sri Varatharaja Perumal Temple](https://github.com/Darkwebnew/NearMe/assets/143114486/1ff1df53-ccbb-4ea4-871c-9af7267369ed)
 ![VANI STATIONARY](https://github.com/Darkwebnew/NearMe/assets/143114486/c2dbb9e2-def5-4652-a42b-542591b270cd)
 ![HOME](https://github.com/Darkwebnew/NearMe/assets/143114486/85740ba6-7642-4281-8f2c-ef4d1019852e)
-## HTML VALIDATOR
-
-
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
